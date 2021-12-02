@@ -2,11 +2,11 @@
 
 Proyecto Final Entrega para Coderhouse
 
-Índice
-
-1. Adquisición de datos.
-2. Análisis.
-3. Información adicional.
+## Índice
+1. Introducción
+2. Adquisición de datos.
+3. Análisis.
+4. Información adicional.
 
 
 ## Adquisicion de datos
